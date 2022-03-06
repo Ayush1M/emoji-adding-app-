@@ -20,7 +20,7 @@ This App is basically focused on adding your favorite emojis.
 
 ## Screenshot
 
-![](./images/dishapp.png)
+![](./Screenshot.png)
 
 ## Technologies I Used
 * Semantic HTML5
